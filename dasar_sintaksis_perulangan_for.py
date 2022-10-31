@@ -1,5 +1,5 @@
 """
-Program pengulangan membaca buku
+Program pengulangan membaca buku dengan for
 """
 jumlah_buku = 69
 print('Ibu berkata, "Baca semua buku mu anjeng"')
